@@ -7,7 +7,7 @@
     color: white !important;
 }
 #banner {
-  background-image: url('cupcakes.png');
+  background-image: url('https://www.bettycrocker.lat/mx/wp-content/uploads/sites/2/2020/12/BCmexico-recipe-cupcakes-de-arcoiris.png');
   background-size: cover;        
   background-position: center;  
   background-repeat: no-repeat;
@@ -37,7 +37,7 @@
   padding: 40px 20px;
 }
 #bann{
-  background-image: url('ChatGPT\ Image\ 17\ oct\ 2025\,\ 03_51_07\ p.m..png');
+  background-image: url('https://i.ytimg.com/vi/zzIY3YqkTfw/maxresdefault.jpg');
   background-size: cover;
   background-position: center;  
   background-repeat: no-repeat;
@@ -53,7 +53,7 @@
 
 }
 #banne{
-  background-image: url('ChatGPT\ Image\ 17\ oct\ 2025\,\ 04_02_45\ p.m..png');
+  background-image: url('https://i.pinimg.com/736x/b9/a1/05/b9a105be278bc69fbb7d61190a4ea458.jpg');
   background-size: cover;
   background-position: center;  
   background-repeat: no-repeat;
@@ -165,6 +165,7 @@
   background-size: contain;
 
 }
+
 
 
 
