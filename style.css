@@ -7,7 +7,7 @@
     color: white !important;
 }
 #banner {
-  background-image: url('cupcakes.png');
+  background-image: url('../cupcakes.png');
   background-size: cover;        
   background-position: center;  
   background-repeat: no-repeat;
@@ -37,7 +37,7 @@
   padding: 40px 20px;
 }
 #bann{
-  background-image: url('ChatGPT\ Image\ 17\ oct\ 2025\,\ 03_51_07\ p.m..png');
+  background-image: url('../ChatGPT\ Image\ 17\ oct\ 2025\,\ 03_51_07\ p.m..png');
   background-size: cover;
   background-position: center;  
   background-repeat: no-repeat;
@@ -53,7 +53,7 @@
 
 }
 #banne{
-  background-image: url('ChatGPT\ Image\ 17\ oct\ 2025\,\ 04_02_45\ p.m..png');
+  background-image: url('../ChatGPT\ Image\ 17\ oct\ 2025\,\ 04_02_45\ p.m..png');
   background-size: cover;
   background-position: center;  
   background-repeat: no-repeat;
@@ -165,4 +165,5 @@
   background-size: contain;
 
 }
+
 
