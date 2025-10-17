@@ -1,0 +1,166 @@
+#menu{
+    background-color: rgb(73, 53, 54);
+    color: white !important;
+}
+#menu{
+    background-color: rgb(73, 53, 54);
+    color: white !important;
+}
+#banner {
+  background-image: url('../images/cupcakes.png');
+  background-size: cover;        
+  background-position: center;  
+  background-repeat: no-repeat;
+  min-height: 450px;            
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  position: relative;
+  padding: 40px 20px;
+}
+#ban{
+  background-image: url('https://cdn.forbes.com.mx/2015/06/1280px-Arc-en-ciel_comestible.jpg');
+  background-size: cover;
+  background-position: center;  
+  background-repeat: no-repeat;
+  min-height: 450px;            
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  position: relative;
+  padding: 40px 20px;
+}
+#bann{
+  background-image: url('../images/ChatGPT\ Image\ 17\ oct\ 2025\,\ 03_51_07\ p.m..png');
+  background-size: cover;
+  background-position: center;  
+  background-repeat: no-repeat;
+  min-height: 450px;            
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  position: relative;
+  padding: 40px 20px;
+
+}
+#banne{
+  background-image: url('../images/ChatGPT\ Image\ 17\ oct\ 2025\,\ 04_02_45\ p.m..png');
+  background-size: cover;
+  background-position: center;  
+  background-repeat: no-repeat;
+  min-height: 450px;            
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: blacks;
+  position: relative;
+  padding: 40px 20px;
+
+}
+ 
+ 
+ 
+    .categoria-contenedor {
+      display: flex;
+      gap: 40px; /* espacio entre ítems */
+      align-items: center;
+      justify-content: center;
+    }
+ 
+    .categoria {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 80px;
+    }
+ 
+    .categoria img {
+      width: 50px;
+      height: 50px;
+      object-fit: contain;
+    }
+ 
+    .categoria span {
+      margin-top: 8px;
+      font-size: 13px;
+      text-align: center;
+      color: #333;
+    }
+    .footer {
+  background-color: #483636;
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
+  padding: 60px 10%;
+  position: relative;
+}
+
+.footer-top {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 40px;
+}
+
+.footer-section h3, .footer-section h4 {
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.footer-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-section ul li {
+  margin-bottom: 10px;
+}
+
+.footer-section a {
+  color: #fff;
+  text-decoration: none;
+  opacity: 0.85;
+}
+
+.footer-section a:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
+
+.payments img {
+  width: 40px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+.socials a {
+  display: inline-block;
+  margin-right: 10px;
+  font-size: 18px;
+  color: #fff;
+}
+
+.socials a:hover {
+  color: #ffcc99;
+}
+
+
+.footer::before {
+  content: "";
+  position: absolute;
+  top: -15px;
+  left: 0;
+  width: 100%;
+  height: 30px;
+  background: url('wave-border.svg') repeat-x;
+  background-size: contain;
+}
